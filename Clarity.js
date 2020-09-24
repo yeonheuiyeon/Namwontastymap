@@ -485,14 +485,14 @@ function foo() {
                 break;
        case 9:
                 
-                tab.document.write('<input type="button" value="닫 기" onclick="self.close();" /><img src="test.jpg">');
+                tab.document.write('<img src="7.jpg"><a href="https://www.youtube.com/watch?v=GzrpXsZEPuI&feature=youtu.be"><img src="artvillage.png" style="width:315px;height:200px;margin-right:60%;margin-left:40%;"></a><img src="gameb.png" style="width:315px;height:200px;margin-right:60%;margin-left:40%;" onclick="self.close();" />');
                 tab.document.location = "#";
-	            break;
+                break;
        case 10:
                 
-                tab.document.write('<input type="button" value="닫 기" onclick="self.close();" /><img src="test.jpg">');
+                tab.document.write('<img src="7.jpg"><a href="https://www.youtube.com/watch?v=GzrpXsZEPuI&feature=youtu.be"><img src="artvillage.png" style="width:315px;height:200px;margin-right:60%;margin-left:40%;"></a><img src="gameb.png" style="width:315px;height:200px;margin-right:60%;margin-left:40%;" onclick="self.close();" />');
                 tab.document.location = "#";
-	            break;
+                break;
 
     }
     
